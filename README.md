@@ -1,1 +1,2 @@
-# discord-invite-library-lua
+# Discord Inviter Library
+### How to use
